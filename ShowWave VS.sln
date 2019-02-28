@@ -3,9 +3,78 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShowWave", "ShowWave", "{D12CB3E3-0CE8-43CF-A03A-49F8A0A2B949}"
+	ProjectSection(SolutionItems) = preProject
+		..\ShowWave 0.13\contactus.html = ..\ShowWave 0.13\contactus.html
+		..\ShowWave 0.13\contactus.js = ..\ShowWave 0.13\contactus.js
+		..\ShowWave 0.13\index.html = ..\ShowWave 0.13\index.html
+		..\ShowWave 0.13\index.js = ..\ShowWave 0.13\index.js
+		..\ShowWave 0.13\print.html = ..\ShowWave 0.13\print.html
+		..\ShowWave 0.13\print.js = ..\ShowWave 0.13\print.js
+		..\ShowWave 0.13\registrationcapture.html = ..\ShowWave 0.13\registrationcapture.html
+		..\ShowWave 0.13\registrationcapture.js = ..\ShowWave 0.13\registrationcapture.js
+		..\ShowWave 0.13\registrationfull.html = ..\ShowWave 0.13\registrationfull.html
+		..\ShowWave 0.13\registrationfull.js = ..\ShowWave 0.13\registrationfull.js
+		..\ShowWave 0.13\registrationlite.html = ..\ShowWave 0.13\registrationlite.html
+		..\ShowWave 0.13\registrationlite.js = ..\ShowWave 0.13\registrationlite.js
+		..\ShowWave 0.13\terms.html = ..\ShowWave 0.13\terms.html
+		..\ShowWave 0.13\terms.js = ..\ShowWave 0.13\terms.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "admin", "admin", "{041BDFFB-7F65-4433-8FAC-CC27298B97CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "php", "php", "{12FAE9ED-1D0F-46A3-9DBA-E922951C0C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\ShowWave 0.13\admin\php\DBAPI.php = ..\ShowWave 0.13\admin\php\DBAPI.php
+		..\ShowWave 0.13\admin\php\DBSMS.php = ..\ShowWave 0.13\admin\php\DBSMS.php
+		..\ShowWave 0.13\admin\php\SWAPI.php = ..\ShowWave 0.13\admin\php\SWAPI.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{0991E2DB-4BD8-4E88-9433-97BB4E75DBD7}"
+	ProjectSection(SolutionItems) = preProject
+		..\ShowWave 0.13\admin\images\ButtonRepeat.png = ..\ShowWave 0.13\admin\images\ButtonRepeat.png
+		..\ShowWave 0.13\admin\images\CalendarButton.png = ..\ShowWave 0.13\admin\images\CalendarButton.png
+		..\ShowWave 0.13\admin\images\checkmark.png = ..\ShowWave 0.13\admin\images\checkmark.png
+		..\ShowWave 0.13\admin\images\checkmark2.png = ..\ShowWave 0.13\admin\images\checkmark2.png
+		..\ShowWave 0.13\admin\images\ClientHeaderLogo.png = ..\ShowWave 0.13\admin\images\ClientHeaderLogo.png
+		..\ShowWave 0.13\admin\images\ClientLogo.png = ..\ShowWave 0.13\admin\images\ClientLogo.png
+		..\ShowWave 0.13\admin\images\cross.png = ..\ShowWave 0.13\admin\images\cross.png
+		..\ShowWave 0.13\admin\images\Default-ClientHeaderLogo.png = ..\ShowWave 0.13\admin\images\Default-ClientHeaderLogo.png
+		..\ShowWave 0.13\admin\images\Default-HeaderNew.png = ..\ShowWave 0.13\admin\images\Default-HeaderNew.png
+		..\ShowWave 0.13\admin\images\exit.png = ..\ShowWave 0.13\admin\images\exit.png
+		..\ShowWave 0.13\admin\images\fade.png = ..\ShowWave 0.13\admin\images\fade.png
+		..\ShowWave 0.13\admin\images\favicon.ico = ..\ShowWave 0.13\admin\images\favicon.ico
+		..\ShowWave 0.13\admin\images\loading.gif = ..\ShowWave 0.13\admin\images\loading.gif
+		..\ShowWave 0.13\admin\images\loadingold.gif = ..\ShowWave 0.13\admin\images\loadingold.gif
+		..\ShowWave 0.13\admin\images\MainHeaderRepeat.png = ..\ShowWave 0.13\admin\images\MainHeaderRepeat.png
+		..\ShowWave 0.13\admin\images\notification.png = ..\ShowWave 0.13\admin\images\notification.png
+		..\ShowWave 0.13\admin\images\PayFastLogo.png = ..\ShowWave 0.13\admin\images\PayFastLogo.png
+		..\ShowWave 0.13\admin\images\Processing.gif = ..\ShowWave 0.13\admin\images\Processing.gif
+		..\ShowWave 0.13\admin\images\Quotation.png = ..\ShowWave 0.13\admin\images\Quotation.png
+		..\ShowWave 0.13\admin\images\RSP.png = ..\ShowWave 0.13\admin\images\RSP.png
+		..\ShowWave 0.13\admin\images\rsz_cross.png = ..\ShowWave 0.13\admin\images\rsz_cross.png
+		..\ShowWave 0.13\admin\images\ShowWaveHeaderLogo.png = ..\ShowWave 0.13\admin\images\ShowWaveHeaderLogo.png
+		..\ShowWave 0.13\admin\images\ShowWaveHeaderLogoLarge.png = ..\ShowWave 0.13\admin\images\ShowWaveHeaderLogoLarge.png
+		..\ShowWave 0.13\admin\images\ShowWaveHeaderLogoOld.png = ..\ShowWave 0.13\admin\images\ShowWaveHeaderLogoOld.png
+		..\ShowWave 0.13\admin\images\ShowWaveLogo.png = ..\ShowWave 0.13\admin\images\ShowWaveLogo.png
+		..\ShowWave 0.13\admin\images\ShowWaveMobileLogo.png = ..\ShowWave 0.13\admin\images\ShowWaveMobileLogo.png
+		..\ShowWave 0.13\admin\images\ShowWaveOpacityLogo.png = ..\ShowWave 0.13\admin\images\ShowWaveOpacityLogo.png
+		..\ShowWave 0.13\admin\images\success.png = ..\ShowWave 0.13\admin\images\success.png
+		..\ShowWave 0.13\admin\images\success1.png = ..\ShowWave 0.13\admin\images\success1.png
+		..\ShowWave 0.13\admin\images\success2.png = ..\ShowWave 0.13\admin\images\success2.png
+		..\ShowWave 0.13\admin\images\SysNonSelect.png = ..\ShowWave 0.13\admin\images\SysNonSelect.png
+		..\ShowWave 0.13\admin\images\SysSelect.png = ..\ShowWave 0.13\admin\images\SysSelect.png
+		..\ShowWave 0.13\admin\images\waiting.png = ..\ShowWave 0.13\admin\images\waiting.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{041BDFFB-7F65-4433-8FAC-CC27298B97CE} = {D12CB3E3-0CE8-43CF-A03A-49F8A0A2B949}
+		{12FAE9ED-1D0F-46A3-9DBA-E922951C0C5D} = {041BDFFB-7F65-4433-8FAC-CC27298B97CE}
+		{0991E2DB-4BD8-4E88-9433-97BB4E75DBD7} = {041BDFFB-7F65-4433-8FAC-CC27298B97CE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B32BC80F-77F6-45AB-AFA6-17E0687AE8B3}
